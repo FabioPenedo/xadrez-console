@@ -7,8 +7,8 @@
 
         public Posicao(int linha, int coluna)
         {
-            Linha = linha;
-            Coluna = coluna;
+            this.Linha = linha;
+            this.Coluna = coluna;
         }
 
         public override string ToString()
